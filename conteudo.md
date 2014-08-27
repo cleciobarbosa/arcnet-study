@@ -2,3 +2,5 @@
 
 ###DDD
 - http://dddcommunity.org/
+
+###SOLID
