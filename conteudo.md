@@ -8,3 +8,11 @@
 ###BDD
 
 ###SOLID
+
+###Design Patterns
+
+###JavaScript
+
+###Node e NPM
+
+###Angular/Backbone/Ember
