@@ -1,5 +1,7 @@
 ###Git
 
+###Agile
+
 ###DDD
 - http://dddcommunity.org/
 
