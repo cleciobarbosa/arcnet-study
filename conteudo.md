@@ -23,7 +23,7 @@
 - [Curso - Shaping Up With AngularJS](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 - [AngularJS Style Guide](https://github.com/toddmotto/angularjs-styleguide)
 - [The Anatomy of backbone-js](https://www.codeschool.com/courses/anatomy-of-backbone-js)
-- [Warming Up Eith ember-js](https://www.codeschool.com/courses/warming-up-with-ember-js)
+- [Warming Up With ember-js](https://www.codeschool.com/courses/warming-up-with-ember-js)
 
 ###Orientação a Objetos
 
