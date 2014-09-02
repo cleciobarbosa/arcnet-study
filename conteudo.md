@@ -13,7 +13,7 @@
 
 ###SOLID
 
-###Design Patterns
+###Design Patterns:OO
 
 ###JavaScript
 
@@ -24,3 +24,6 @@
 - [AngularJS Style Guide](https://github.com/toddmotto/angularjs-styleguide)
 
 ###Orientação a Objetos
+
+###User Experience/User Interface (UX & UI)
+- [UX Porn](http://uxporn.uxpin.com/)
