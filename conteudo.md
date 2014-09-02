@@ -1,5 +1,6 @@
 ###Git
 - [Pro Git](http://git-scm.com/book/pt-br/)
+- [Começando com Git](http://www.akitaonrails.com/2010/08/17/screencast-comecando-com-git)
 
 ###Agile
 
