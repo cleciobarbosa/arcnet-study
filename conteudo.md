@@ -1,4 +1,5 @@
 ###Git
+- [Pro Git](http://git-scm.com/book/pt-br/)
 
 ###Agile
 
